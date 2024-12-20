@@ -1,0 +1,71 @@
+/* Gaya untuk seluruh body */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Gaya untuk header */
+header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Gaya untuk navigasi */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: 1  center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Gaya untuk konten */
+section {
+  padding: 20px;
+}
+
+/* Gaya untuk footer */
+footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+footer nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+footer nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+footer nav a {
+  color: #333;
+  text-decoration: none;
+}
+
+.social-media a {
+  margin: 0 5px;
+  color: #333;
+}
